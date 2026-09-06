@@ -4,8 +4,8 @@ public class Question01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number to print its multiplication table: ");
-        int number = input.nextInt();
-        printMultiplicationTable(number);
+        int num = input.nextInt();
+        printMultiplicationTable(num);
     }
 
     public static void printMultiplicationTable(int num) {
