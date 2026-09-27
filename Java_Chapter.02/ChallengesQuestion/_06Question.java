@@ -1,3 +1,4 @@
+package ChallengesQuestion;
 //create a program to create a simple calculator that uses a switch statement to  perform basic arithmetic operations (addition, subtraction, multiplication, division).
 import java.util.Scanner;
 public class _06Question {

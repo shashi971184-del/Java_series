@@ -1,3 +1,4 @@
+package ChallengesQuestion;
 // Create a program to calculate the absolute value of a given integer.
 import java.util.Scanner;
 public class _03Question {

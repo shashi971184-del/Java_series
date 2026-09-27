@@ -1,3 +1,4 @@
+package ChallengesQuestion;
 //Create a program to find the minimum of two numbers.
 import java.util.Scanner;
 public class _01Question {

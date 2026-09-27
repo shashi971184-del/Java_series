@@ -1,3 +1,4 @@
+package ChallengesQuestion;
 // Create a program to find the given number is even or odd.
 import java.util.Scanner;
 public class _02Question {
