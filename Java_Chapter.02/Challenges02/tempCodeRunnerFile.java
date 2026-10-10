@@ -1,0 +1,1 @@
+we can also solve this by ternary operator
